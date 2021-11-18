@@ -21,7 +21,7 @@
                 <td>Kode MTK</td>
                 <td>:</td>
                 <td>
-                    <?= $kode; ?>
+                    <?= $kode ;?>
                 </td>
             </tr>
             <tr>
@@ -40,8 +40,7 @@
             </tr>
             <tr>
                 <td colspan="3" align="center">
-                    <a href="<?= base_url('matakuliah');
-?>">Kembali</a>
+                    <a href="<?= base_url('matakuliah');?>">Kembali</a>
                 </td>
             </tr> 
         </table>

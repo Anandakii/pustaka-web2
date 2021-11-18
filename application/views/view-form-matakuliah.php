@@ -6,8 +6,7 @@
 
 <body>
     <center>
-        <form action="<?= base_url('matakuliah/cetak'); ?>"
-method="post">
+        <form action="<?= base_url('matakuliah/cetak'); ?>" method="post">
             <table>
                 <tr>
                     <th colspan="3">
@@ -32,7 +31,7 @@ method="post">
                     <th>Nama MTK</th>
                     <td>:</td>
                     <td>
-                        <input type="text" name="nama" id="nama" value="<?php echo set_value('nama'); ?>" placeholder="Required">
+                        <input type="type" name="nama" id="nama" value="<?php echo set_value('nama'); ?>" placeholder="Required">
                     </td>
                     <td><?php echo form_error('nama'); ?></td>
                 </tr>

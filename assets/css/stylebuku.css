@@ -1,9 +1,8 @@
 body{
-    
     background: #eee;
     color: #333;
     font-family: sans-serif;
-    font-size:15px;
+    font-size: 15px;
 }
 
 #wrapper{
@@ -33,11 +32,11 @@ body{
 }
 
 #wrapper header nav ul li{
-    float: left;
-    list-style: none;
+   float: left;
+   list-style: none;
 }
 
-#wrapper header nav ul li a{
+#wrapper nav ul li a{
     padding: 15px;
     color: #fff;
     text-decoration: none;

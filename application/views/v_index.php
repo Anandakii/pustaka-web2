@@ -6,7 +6,7 @@
 
 
         <ol type="a">
-            <li>Model</li>
+        <li>Model</li>
 <p align='justify'>Model adalah kelas yang merepresentasikan atau memodelkan tipe data yang akan digunakan oleh aplikasi. Model juga dapat didefinisikan sebagai bagian penanganan yang berhubungan dengan pengolahan atai manipulasi database. Seperti misalnya mengambil data dari database, menginput dan pengolahan database lainnya. semua instruksi atau fungsi yang berhubung dengan pengolahan database di letakkan di dalam model. Sebagai contoh, jika ingin membuat aplikasi untuk menghitung luas dan keliling lingkaran, maka dapat memodelkan objek lingkaran sebagai kelas model.</p>
 <p align='justify'>Sebagai catatan, Semua model harus disimpan di dalam folder application\models</p>
 <li>View</li>
